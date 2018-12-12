@@ -14,4 +14,10 @@
 
 #  geolocation
 
-new-branch-2
+
+
+Git
+
+new-branch-1
+
+>>>>>>> origin/master
